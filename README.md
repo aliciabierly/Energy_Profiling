@@ -17,5 +17,5 @@ While initially validated on office environments (data in this repository has be
 
 # Project Structure
 
-* **CLEAN_analysis.ipynb**: Contains Python functions for data processing, statistical analysis, and visualization. Includes an example for conducting analysis on an energy signature for an individual system.
+* **CLEAN_analysis.ipynb**: Contains Python codes and functions for data processing, statistical analysis, and visualization. Includes an example for conducting analysis on an energy signature for an individual system.
 * **data/**: A directory storying raw sensor data. Data is partitioned by day to align with a day of profiling a building.
