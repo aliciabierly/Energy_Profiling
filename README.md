@@ -2,7 +2,7 @@
 
 During my internship at Apleona Ireland, I developed scripts designed to automate and streamline the energy profiling of commercial buildings using granular sensor data. 
 
-As a facility management and consulting leader, Apleona relies on accurate data to identify baseload energy consumption across various building assets. Understanding the specific energy demands of individual systems—such as HVAC, lighting, and server rooms—is critical for helping clients pinpoint inefficiencies. By quantifying these "energy signatures", companies can implement data-driven strategies to significantly reduce operational costs and their carbon footprint.
+Apleona relies on accurate data to identify baseload energy consumption across various building assets. Understanding the specific energy demands of individual systems—such as HVAC, lighting, and server rooms—is critical for helping clients pinpoint inefficiencies. By quantifying these "energy signatures", companies can implement data-driven strategies to significantly reduce operational costs and their carbon footprint.
 
 While initially validated on office environments, this application is highly scalable. It can be used to profile larger industrial facilities, generating precise energy signatures for every appliance or structural component.
 
