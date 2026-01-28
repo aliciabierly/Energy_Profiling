@@ -19,4 +19,4 @@ While initially validated on office environments (data in this repository has be
 
 * **CLEAN_analysis.ipynb**: Contains Python codes and functions for data processing, statistical analysis, and visualization. Includes an example for conducting analysis on an energy signature for an individual system.
 * **/data**: Directory storying raw sensor data. Data is partitioned by day to align with a day of profiling a building.
-* ** /archive ** : Directory containing old notebook files.
+* **/archive** : Directory containing old notebook files.
